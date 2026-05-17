@@ -174,14 +174,7 @@ Example:
 
 # Wiring Diagram
 
-> Add wiring diagram image here later.
-
-Suggested section:
-
-```md
-## Wiring Diagram
-
-![Wiring Diagram](images/wiring-diagram.png)
+![Wiring Diagram](wiring-diagram.png)
 ```
 
 ---
