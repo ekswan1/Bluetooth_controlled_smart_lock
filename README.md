@@ -176,7 +176,7 @@ Example:
 
 ![Wiring Diagram](images/wiring-diagram.png)
 ```
-
+```
 ---
 
 # Pin Configuration
