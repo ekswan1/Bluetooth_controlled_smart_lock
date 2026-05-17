@@ -174,7 +174,7 @@ Example:
 
 # Wiring Diagram
 
-![Wiring Diagram](wiring-diagram.png)
+![Wiring Diagram](images/wiring-diagram.png)
 ```
 
 ---
